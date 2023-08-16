@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    ppiotrowski:
+      email: piotrpawelpiotrowski@gmail.com
+      name: Piotr Piotrowski
+      password: $2b$12$JspUidVYCApdHFFSYfs/Le0ohe6SRfgOtUIeMKrCebLzOdjKSxTo6 #123q
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - p.piotrowski@cropka.com
+
